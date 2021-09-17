@@ -40,8 +40,6 @@
     <a href="https://github.com/aljubrmj/ERE-251_PVT-Simulator"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/aljubrmj/ERE-251_PVT-Simulator">View Demo</a>
-    ·
     <a href="https://github.com/aljubrmj/ERE-251_PVT-Simulator/issues">Report Bug</a>
     ·
     <a href="https://github.com/aljubrmj/ERE-251_PVT-Simulator/issues">Request Feature</a>
