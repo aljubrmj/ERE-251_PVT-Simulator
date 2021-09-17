@@ -196,4 +196,4 @@ Project Link: [https://github.com/aljubrmj/ERE-251_PVT-Simulator](https://github
 [license-shield]: https://img.shields.io/github/license/aljubrmj/repo.svg?style=for-the-badge
 [license-url]: https://github.com/aljubrmj/ERE-251_PVT-Simulator/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/aljubrmj
+[linkedin-url]: https://www.linkedin.com/in/mohammad-jabs/
