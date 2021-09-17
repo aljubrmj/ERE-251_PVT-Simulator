@@ -189,7 +189,7 @@ Project Link: [https://github.com/aljubrmj/ERE-251_PVT-Simulator](https://github
 [contributors-url]: https://github.com/aljubrmj/ERE-251_PVT-Simulator/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/aljubrmj/repo.svg?style=for-the-badge
 [forks-url]: https://github.com/aljubrmj/ERE-251_PVT-Simulator/network/members
-[stars-shield]: https://img.shields.io/github/stars/aljubrmj/repo.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/aljubrmj/ERE-251_PVT-Simulator/stargazers
 [issues-shield]: https://img.shields.io/github/issues/aljubrmj/repo.svg?style=for-the-badge
 [issues-url]: https://github.com/aljubrmj/ERE-251_PVT-Simulator/issues
